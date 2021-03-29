@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mmcgilluk
+- 👀 I’m interested in DevOps and Data
+- 🌱 I’m currently learning Vagrant
